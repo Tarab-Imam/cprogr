@@ -3,11 +3,12 @@ int main()
 {
     int n,digit,original;
     int sum=0;
-    original=n;
+    
 
     
     printf("Enter a number");
     scanf("%d",&n);
+    original=n;
     while(n>0)
     {
         digit=n%10;
