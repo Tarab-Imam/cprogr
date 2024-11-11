@@ -6,6 +6,6 @@ int main()
     for (i=1;i<=3;i++){
     sum=sum+(1/i);
     }
-    printf("%f",sum);
+    printf("%.2lf",sum);
     return 0;
 }    
