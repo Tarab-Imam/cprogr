@@ -9,4 +9,4 @@ In the following repository,I'll write some programs of C.
 I'll also write some menu driven programs.
 
 <p> I'll write programs using switch case. </p>
-In this program, I'll use arrays,series functions,etc.
+In this program, I'll use programs using arrays,series,etc.
