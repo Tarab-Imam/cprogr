@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CPROGR
 In this repository,I'll write some programs of C.
 =======
